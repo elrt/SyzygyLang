@@ -1,4 +1,8 @@
-
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
+![License: GPL v2](https://img.shields.io/badge/License-GPL%20v2-blue.svg)
+![Language](https://img.shields.io/badge/language-C-orange)
+![Status](https://img.shields.io/badge/status-active%20development-yellowgreen)
+![Stage](https://img.shields.io/badge/stage-alpha-orange)
 # Syzygy Language
 
 **Algebraic Programming for Mathematical Computation**
